@@ -6,14 +6,7 @@
     .st1{fill:#242939;}
     .st2{fill-rule:evenodd;clip-rule:evenodd;fill:#48AE4A;}
 
-    /* Добавленные стили для анимации */
-    #iconContent {
-      filter: grayscale(100%);
-      transition: filter 0.3s ease-in-out; /* Плавный переход 0.3 секунды */
-    }
-    svg:hover #iconContent {
-      filter: none; /* Убираем фильтр при наведении */
-    }
+
 </style>
 <g id="iconContent"> <path class="st0" d="M380,500H120C53.7,500,0,446.3,0,380V120C0,53.7,53.7,0,120,0h260c66.3,0,120,53.7,120,120v260
       C500,446.3,446.3,500,380,500z"/>
