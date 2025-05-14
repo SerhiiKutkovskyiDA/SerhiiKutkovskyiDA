@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect x="0.0" y="0.0" width="128.0" height="128.0" fill="#f0f0f0" rx="20" ry="20" /><g transform="translate(12.799999999999997 12.799999999999997) scale(0.8)"><defs>
+  <rect x="0.0" y="0.0" width="128.0" height="128.0" fill="#999999" rx="20" ry="20" /><g transform="translate(12.799999999999997 12.799999999999997) scale(0.8)"><defs>
     <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="92.39" y1="40.62" x2="95.19" y2="65.06" gradientTransform="rotate(.104) scale(1.21905)">
       <stop offset=".16" stop-color="#21d789" />
       <stop offset=".54" stop-color="#419fbc" />
