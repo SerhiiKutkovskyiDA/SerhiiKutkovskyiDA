@@ -22,79 +22,79 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/pandas-plain.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/pandas-plain.svg" alt="Pandas" width="50" height="50"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/numpy-plain.svg" alt="NumPy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/numpy-plain.svg" alt="NumPy" width="50" height="50"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/postgresql-plain.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/postgresql-plain.svg" alt="PostgreSQL" width="50" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
   </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/dbeaver-original.svg" alt="DBeaver" width="50" height="50"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/anaconda-original.svg" alt="Anaconda" width="50" height="50"/>
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/googlecloud-original.svg" alt="Google Cloud Platform" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/docker-original.svg" alt="Docker" width="50" height="50"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/figma-original.svg" alt="Figma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/figma-original.svg" alt="Figma" width="50" height="50"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/illustrator-plain.svg" alt="Adobe Illustrator" width="50" height="50"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/photoshop-original.svg" alt="Adobe Photoshop" width="50" height="50"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/blender-original.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/blender-original.svg" alt="Blender" width="50" height="50"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/canva-original.svg" alt="Canva" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/canva-original.svg" alt="Canva" width="50" height="50"/>
   </a>
   <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/datagrip-original.svg" alt="DataGrip" width="50" height="50"/>
   </a>
   <a href="https://ifttt.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/ifttt-original.svg" alt="IFTTT" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/ifttt-original.svg" alt="IFTTT" width="50" height="50"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/jira-original.svg" alt="Jira" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/jira-original.svg" alt="Jira" width="50" height="50"/>
   </a>
   <a href="https://trello.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/trello-original.svg" alt="Trello" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/trello-original.svg" alt="Trello" width="50" height="50"/>
   </a>
   <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
   </a>
 </p>
 
