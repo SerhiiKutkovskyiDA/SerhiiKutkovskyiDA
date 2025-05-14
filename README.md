@@ -19,7 +19,7 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/pandas-plain.svg" alt="Pandas" width="40" height="40"/>
