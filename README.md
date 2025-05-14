@@ -103,7 +103,7 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
 
 Here are some of the projects I've worked on during my studies:
 
-* **[Project Name 1]**: A brief description of the project (e.g., "Sales data analysis to identify trends"). [Link to Repository]
+* **https://github.com/SerhiiKutkovskyiDA/portfolio**: A brief description of the project (e.g., "Sales data analysis to identify trends"). [Link to Repository]
 * **[Project Name 2]**: A brief description of the project (e.g., "Customer segmentation based on behavior"). [Link to Repository]
 * *Feel free to add more projects as you complete them!*
 
