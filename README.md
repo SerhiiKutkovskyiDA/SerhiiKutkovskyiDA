@@ -51,7 +51,7 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
   <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/kaggle-original.svg" alt="Kaggle" width="40" height="40"/>
   </a>
-   <a href="https://dbeaver.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://dbeaver.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer">
@@ -81,7 +81,8 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
   <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/canva-original.svg" alt="Canva" width="40" height="40"/>
   </a>
-   <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
   </a>
   <a href="https://ifttt.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/ifttt-original.svg" alt="IFTTT" width="40" height="40"/>
@@ -95,7 +96,7 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
   <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/SerhiiKutkovskyiDA/SerhiiKutkovskyiDA/main/ico/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
-  </p>
+</p>
 
 ## 🚀 My Projects
 
