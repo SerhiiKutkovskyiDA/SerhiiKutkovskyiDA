@@ -9,7 +9,7 @@
 </p>
 I'm an aspiring Data Analyst, recently graduated from a data analytics course and eager to apply my skills to solve interesting problems.
 
-                                                ## 📊 About Me
+## 📊 About Me
 
 * 🎓 Recently completed a comprehensive Data Analytics program.
 * 💡 Passionate about data visualization, statistical analysis, and machine learning.
