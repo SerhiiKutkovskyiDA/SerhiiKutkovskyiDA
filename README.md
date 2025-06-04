@@ -7,15 +7,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1500&pause=1000&color=6132C3C8&background=92891A00&center=true&vCenter=true&random=true&width=435&height=25&lines=Data+Analyst;Data+Visualizer;Architect;Creative+Creator;Always+learning;Gym+Lover;Nomad;Extrovert;Problem+Solver;SQL+Enthusiast;Python+Coder;Insight+Miner;Machine+Learning+Curious;Tech+Explorer;Lifelong+Learner;Detail+Oriented;Critical+Thinker;Curious+Mind;Tech+Savvy;Minimalist;Exploring+the+Data+Universe" alt="Typing SVG - Skills and Traits" />
   </a>
 </p>
-I'm an aspiring Data Analyst, recently graduated from a data analytics course and eager to apply my skills to solve interesting problems.
 
-## 📊 About Me
+## 📊 Data Analyst | Transforming Numbers into Strategic Insights
 
-* 🎓 Recently completed a comprehensive Data Analytics program.
-* 💡 Passionate about data visualization, statistical analysis, and machine learning.
-* 🌱 Always open to learning new technologies and tools.
+With a strong foundation in data analysis and visualization, I leverage **Python, SQL, and Tableau** to uncover actionable business insights. <br>
+My architectural background brings unique problem-solving skills to data challenges.
 
-## 💻 Technologies & Tools
+### 🔍 Core Competencies
+- **Data Analysis:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL)
+- **Visualization:** Tableau, Power BI, Matplotlib/Seaborn
+- **Data Wrangling:** Cleaning, transformation, and ETL processes
+- **Business Intelligence:** KPI tracking, dashboard development
+- **Architectural Analytics:** BIM data optimization (unique crossover skill)
+
+## 💻 Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
@@ -111,24 +116,34 @@ I'm an aspiring Data Analyst, recently graduated from a data analytics course an
   </a>
 </p>
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've worked on during my studies:
+### 1. [E-commerce Sales Analysis](https://github.com/SerhiiKutkovskyiDA/portfolio)
+- Conducted RFM analysis on 10K+ customer records using **Python (Pandas)**
+- Built interactive Tableau dashboards showing sales trends and customer segments
+- Identified high-value customer groups with 12% higher average order value
 
-* **[Project 1](https://github.com/SerhiiKutkovskyiDA/portfolio)**: A brief description of the project (e.g., "Sales data analysis to identify trends"). [Link to Repository]
-* **[Project Name 2]**: A brief description of the project (e.g., "Customer segmentation based on behavior"). [Link to Repository]
-* *Feel free to add more projects as you complete them!*
+### 2. Construction Cost Optimization
+- Analyzed project financials using **SQL** queries on complex datasets
+- Developed cost-tracking dashboards that identified 8-10% savings opportunities
+- Automated reporting processes saving 5+ hours weekly
 
-## 🌱 What I'm Learning Next / Future Goals
+### 3. [Project Name 3] - Coming Soon!
+- Currently working on machine learning project using Scikit-learn
 
-* Deepening my understanding of machine learning algorithms.
-* Mastering [a specific tool, e.g., Apache Spark or Power BI].
-* Contributing to open-source projects.
+## 📈 GitHub Stats
+[Здесь можно добавить блок с GitHub stats, если нужно]
 
-## 📫 How to Reach Me
+## 🌱 Currently Learning
+- Advanced SQL optimization techniques
+- Machine learning fundamentals (Scikit-learn)
+- Cloud data solutions (Google BigQuery)
 
-* **LinkedIn:** [Link to your LinkedIn profile]
-* **Email:** [Your Email]
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** serhii.kutkovskyi@gmail.com
+- **Portfolio:** [Link to your portfolio if available]
 
----
-*Feel free to explore my repositories!*
+<p align="center">
+  <i>Open to collaborations and new opportunities!</i>
+</p>
