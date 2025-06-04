@@ -140,7 +140,7 @@ My architectural background brings unique problem-solving skills to data challen
 - Cloud data solutions (Google BigQuery)
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [Serhii Kutkovskyi](https://www.linkedin.com/in/serhiikutkovskyi/)
 - **Email:** serhii.kutkovskyi@gmail.com
 - **Portfolio:** [Link to your portfolio if available]
 
