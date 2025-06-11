@@ -118,10 +118,10 @@ My architectural background brings unique problem-solving skills to data challen
 
 ## 🚀 Featured Projects
 
-### 1. [E-commerce Sales Analysis](https://github.com/SerhiiKutkovskyiDA/portfolio)
-- Conducted RFM analysis on 10K+ customer records using **Python (Pandas)**
-- Built interactive Tableau dashboards showing sales trends and customer segments
-- Identified high-value customer groups with 12% higher average order value
+### 1. [User Engagement and Email Marketing Analysis]( https://github.com/SerhiiKutkovskyiDA/portfolio](https://github.com/SerhiiKutkovskyiDA/user-engagement-analytics.git )
+- Analyzed and merged user session data with email campaign metrics using complex SQL queries.
+- Leveraged advanced SQL techniques (CTEs, Window Functions) to rank country performance and identify key market trends.
+- Delivered actionable insights on top-performing regions to support strategic marketing decisions.
 
 ### 2. Construction Cost Optimization
 - Analyzed project financials using **SQL** queries on complex datasets
