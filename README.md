@@ -118,7 +118,7 @@ My architectural background brings unique problem-solving skills to data challen
 
 ## 🚀 Featured Projects
 
-### 1. [User Engagement and Email Marketing Analysis]( https://github.com/SerhiiKutkovskyiDA/portfolio](https://github.com/SerhiiKutkovskyiDA/user-engagement-analytics.git )
+### 1. [User Engagement and Email Marketing Analysis](https://github.com/SerhiiKutkovskyiDA/user-engagement-analytics.git)
 - Analyzed and merged user session data with email campaign metrics using complex SQL queries.
 - Leveraged advanced SQL techniques (CTEs, Window Functions) to rank country performance and identify key market trends.
 - Delivered actionable insights on top-performing regions to support strategic marketing decisions.
