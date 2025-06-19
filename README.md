@@ -128,7 +128,7 @@ My architectural background brings unique problem-solving skills to data challen
 - In-depth Exploratory Data Analysis (EDA)
 - Insightful Visualization and Business Intelligence
 
-### 3. [Project Name 3] - Coming Soon!
+### 3. [Tableau](https://github.com/SerhiiKutkovskyiDA/Tableau.git)
 - Currently working on machine learning project using Scikit-learn
 
 ## 📈 GitHub Stats
