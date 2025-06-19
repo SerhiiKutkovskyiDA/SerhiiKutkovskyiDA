@@ -123,10 +123,10 @@ My architectural background brings unique problem-solving skills to data challen
 - Leveraged advanced SQL techniques (CTEs, Window Functions) to rank country performance and identify key market trends.
 - Delivered actionable insights on top-performing regions to support strategic marketing decisions.
 
-### 2. Construction Cost Optimization
-- Analyzed project financials using **SQL** queries on complex datasets
-- Developed cost-tracking dashboards that identified 8-10% savings opportunities
-- Automated reporting processes saving 5+ hours weekly
+### 2. [Analysis of sales data](https://github.com/SerhiiKutkovskyiDA/Analysis-of-sales-data.git)
+- Comprehensive Data Processing and Cleaning
+- In-depth Exploratory Data Analysis (EDA)
+- Insightful Visualization and Business Intelligence
 
 ### 3. [Project Name 3] - Coming Soon!
 - Currently working on machine learning project using Scikit-learn
