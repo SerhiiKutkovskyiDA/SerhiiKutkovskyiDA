@@ -119,9 +119,9 @@ My architectural background brings unique problem-solving skills to data challen
 ## 🚀 Featured Projects
 
 ### 1. [E-commerce-Sales-Analytics](https://github.com/SerhiiKutkovskyiDA/E-commerce-Sales-Analytics.git)
-- Analyzed and merged user session data with email campaign metrics using complex SQL queries.
-- Leveraged advanced SQL techniques (CTEs, Window Functions) to rank country performance and identify key market trends.
-- Delivered actionable insights on top-performing regions to support strategic marketing decisions.
+- Conducted an end-to-end e-commerce analysis using SQL, Python (Pandas, SciPy), and Tableau.
+- Uncovered key insights through statistical testing, including US market dependency, a mobile-to-desktop purchase gap, and equal conversion quality across all traffic channels.
+- Developed data-driven strategies to optimize the mobile experience, scale marketing based on traffic volume, and expand into new markets.
 
 ### 2. [Analysis of sales data](https://github.com/SerhiiKutkovskyiDA/Analysis-of-sales-data.git)
 - Comprehensive Data Processing and Cleaning
