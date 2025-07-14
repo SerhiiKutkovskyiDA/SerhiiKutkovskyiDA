@@ -139,7 +139,6 @@ My architectural background brings unique problem-solving skills to data challen
 ## 📫 Let's Connect
 - **LinkedIn:** [Serhii Kutkovskyi](https://www.linkedin.com/in/serhiikutkovskyi/)
 - **Email:** serhii.kutkovskyi@gmail.com
-- **Portfolio:** [Link to your portfolio if available]
 
 <p align="center">
   <i>Open to collaborations and new opportunities!</i>
