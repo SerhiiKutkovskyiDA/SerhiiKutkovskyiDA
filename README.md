@@ -131,9 +131,6 @@ My architectural background brings unique problem-solving skills to data challen
 ### 3. [Tableau](https://github.com/SerhiiKutkovskyiDA/Tableau.git)
 - Currently working on machine learning project using Scikit-learn
 
-## 📈 GitHub Stats
-[Здесь можно добавить блок с GitHub stats, если нужно]
-
 ## 🌱 Currently Learning
 - Advanced SQL optimization techniques
 - Machine learning fundamentals (Scikit-learn)
