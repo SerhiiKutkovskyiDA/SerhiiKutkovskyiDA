@@ -14,7 +14,7 @@ With a strong foundation in data analysis and visualization, I leverage **Python
 My architectural background brings unique problem-solving skills to data challenges.
 
 ### 🔍 Core Competencies
-- **Data Analysis:** Python (Pandas, NumPy), SQL (MySQL, PostgreSQL)
+- **Data Analysis:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL, PostgreSQL)
 - **Visualization:** Tableau, Power BI, Matplotlib/Seaborn
 - **Data Wrangling:** Cleaning, transformation, and ETL processes
 - **Business Intelligence:** KPI tracking, dashboard development
